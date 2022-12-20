@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "1f78e3e11a302bae025a",
-    "url": "/static/css/main.d0710e54.chunk.css"
+    "revision": "96b187a82f1ae5cc3da9",
+    "url": "/static/css/main.6db36d32.chunk.css"
   },
   {
-    "revision": "1f78e3e11a302bae025a",
-    "url": "/static/js/main.56a7209f.chunk.js"
+    "revision": "96b187a82f1ae5cc3da9",
+    "url": "/static/js/main.76283e45.chunk.js"
   },
   {
     "revision": "42ac5946195a7306e2a5",
@@ -20,24 +20,24 @@ self.__precacheManifest = [
     "url": "/static/media/profilePik.efd11714.jpg"
   },
   {
-    "revision": "4bb95c68e3fdda961b8fce5a63b440a3",
-    "url": "/static/media/css.4bb95c68.svg"
-  },
-  {
     "revision": "14aaff748bda1892345323f9131fd3b4",
     "url": "/static/media/html.14aaff74.svg"
+  },
+  {
+    "revision": "4bb95c68e3fdda961b8fce5a63b440a3",
+    "url": "/static/media/css.4bb95c68.svg"
   },
   {
     "revision": "704cccd915b541b33a346d688dd7c3c3",
     "url": "/static/media/javascript.704cccd9.svg"
   },
   {
-    "revision": "6c507b3dfad01cb6f23a962f9253b14b",
-    "url": "/static/media/figma.6c507b3d.svg"
-  },
-  {
     "revision": "f643b46cb9bf2d94d7ba8e1c34fae395",
     "url": "/static/media/react.f643b46c.svg"
+  },
+  {
+    "revision": "6c507b3dfad01cb6f23a962f9253b14b",
+    "url": "/static/media/figma.6c507b3d.svg"
   },
   {
     "revision": "8c30dcfedc6a5a79fa94e88e6f8f331b",
@@ -64,7 +64,7 @@ self.__precacheManifest = [
     "url": "/static/media/FrameTwiter.97937797.svg"
   },
   {
-    "revision": "bebb7161105e2f573bcc3f467d133fd0",
+    "revision": "fd1162a062a1759354a78d91ec54c703",
     "url": "/index.html"
   }
 ];
