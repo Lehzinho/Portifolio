@@ -1,19 +1,19 @@
 self.__precacheManifest = [
   {
-    "revision": "96b187a82f1ae5cc3da9",
-    "url": "/static/css/main.6db36d32.chunk.css"
+    "revision": "92d70e8e3ebd3567200b",
+    "url": "/static/css/main.0f3e343d.chunk.css"
   },
   {
-    "revision": "96b187a82f1ae5cc3da9",
-    "url": "/static/js/main.76283e45.chunk.js"
+    "revision": "92d70e8e3ebd3567200b",
+    "url": "/static/js/main.c60ed864.chunk.js"
   },
   {
     "revision": "42ac5946195a7306e2a5",
     "url": "/static/js/runtime~main.a8a9905a.js"
   },
   {
-    "revision": "d254f5293a171dc384a9",
-    "url": "/static/js/2.aac83f98.chunk.js"
+    "revision": "91d51047415e3d7e6d70",
+    "url": "/static/js/2.8f2dd633.chunk.js"
   },
   {
     "revision": "efd117147c910babaea09aad1c40d088",
@@ -48,23 +48,7 @@ self.__precacheManifest = [
     "url": "/static/media/Familia.208e7e1e.jpg"
   },
   {
-    "revision": "1b5a8e79294c96b3e27f343a94fb401d",
-    "url": "/static/media/Framefacebook.1b5a8e79.svg"
-  },
-  {
-    "revision": "56165621454b89b3c7d1db881dda9307",
-    "url": "/static/media/FrameInstagram.56165621.svg"
-  },
-  {
-    "revision": "b420905f107f2a74fc084d8b52530abd",
-    "url": "/static/media/FrameLinkedin.b420905f.svg"
-  },
-  {
-    "revision": "97937797f30c8eeb26e224b2d91e4370",
-    "url": "/static/media/FrameTwiter.97937797.svg"
-  },
-  {
-    "revision": "fd1162a062a1759354a78d91ec54c703",
+    "revision": "fecab990fe281f9adfbbde2d03aecbf0",
     "url": "/index.html"
   }
 ];
